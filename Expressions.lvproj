@@ -34,7 +34,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{3F466A86-C933-4CE0-9D85-F7D8F92A4A21}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Expressions Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Expressions Example/Expressions Example.exe</Property>
@@ -61,29 +61,29 @@
 				<Property Name="TgtF_targetfileName" Type="Str">Expressions Example.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
-			<Item Name="LabVIEW_Expressions" Type="Packed Library">
+			<Item Name="LabVIEW-Expressions" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{06BB3FAE-44A2-4515-B260-EE19EDD9633E}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW_Expressions</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW-Expressions</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/LabVIEW_Expressions</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BE9FAEB4-9BA7-49A4-AF10-D813227BE57D}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">LabVIEW_Expressions.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW_Expressions/LabVIEW_Expressions.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Expressions.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Expressions.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/LabVIEW_Expressions</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BCBC6D8B-51C0-48D2-AD7A-D876A1666FB9}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C6072B69-75C7-4D8E-84B8-993E35A9B1B0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Expressions.lvlib</Property>
@@ -96,12 +96,12 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Ryan Pacini</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW_Expressions</Property>
-				<Property Name="TgtF_internalName" Type="Str">LabVIEW_Expressions</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW-Expressions</Property>
+				<Property Name="TgtF_internalName" Type="Str">LabVIEW-Expressions</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 Ryan Pacini</Property>
-				<Property Name="TgtF_productName" Type="Str">LabVIEW_Expressions</Property>
+				<Property Name="TgtF_productName" Type="Str">LabVIEW-Expressions</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{69543C8F-4813-4DAC-A969-468D4E41A343}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW_Expressions.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW-Expressions.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
