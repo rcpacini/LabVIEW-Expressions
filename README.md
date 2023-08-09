@@ -1,4 +1,4 @@
-# LabVIEW_Expressions
+# LabVIEW-Expressions
 
 LabVIEW library to evaluate numerical and conditional expressions at run-time.
 
