@@ -34,7 +34,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{3F466A86-C933-4CE0-9D85-F7D8F92A4A21}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Expressions Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Expressions Example/Expressions Example.exe</Property>
@@ -71,7 +71,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BE9FAEB4-9BA7-49A4-AF10-D813227BE57D}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Expressions.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Expressions.lvlibp</Property>
